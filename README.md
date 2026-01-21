@@ -13,7 +13,7 @@ It focuses on usability, clean design, and structured development.
 ---
 
 ## 🎥 Project Demo Video
-
+https://drive.google.com/file/d/1-mp14dhqGrctCuknhYS9HPtozOSy4Vy0/view?usp=sharing
 A full explanation of the project is available in the following video file:
 
 ▶️ **[Watch the demo video](./https://drive.google.com/file/d/1-mp14dhqGrctCuknhYS9HPtozOSy4Vy0/view?usp=sharing)**
